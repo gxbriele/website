@@ -1,0 +1,45 @@
+﻿[Help]
+Path=Spain Help.cur
+
+[UpArrow]
+Path=Spain Alt.cur
+
+[No]
+Path=Spain Unavaible.cur
+
+[NWPen]
+Path=Spain Pen.cur
+
+[SizeAll]
+Path=Silver Move.cur
+
+[SizeNESW]
+Path=size_diag_der.cur
+
+[SizeNWSE]
+Path=Spain Size D1.cur
+
+[SizeWE]
+Path=Spain size Horizontal.cur
+
+[SizeNS]
+Path=Spain Size Vertical.cur
+
+[Crosshair]
+Path=Aircraft Precision.cur
+
+[Wait]
+Path=Radar.ani
+
+[Hand]
+Path=Hand Spain.cur
+
+[Arrow]
+Path=Spain.cur
+
+[IBeam]
+Path=Text Select.cur
+
+[AppStarting]
+Path=Background Spain.ani
+

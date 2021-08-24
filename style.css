@@ -1,0 +1,91 @@
+/* index.html */
+html{cursor:url("cursor/Spain.cur"), default;}
+
+body{background-color:gray;
+    cursor:url("cursor/Spain.cur"), default;}
+
+#header{border-style:double;
+    border-width:10px;
+    background-color:red;}
+
+#title{color:white; 
+    text-align:center; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration:underline;}
+ 
+#navigation{border-style:double;
+    border-width:10px;
+    background-color:red;}
+
+#button-menu{color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    background-color:white; 
+    border-style:double; border-color:black; border-width:10px; background-color:yellow;
+    font-weight:bolder; 
+    cursor:url("cursor/Hand\ Spain.cur"), default;}
+
+footer{color:white;
+    background-color:green;
+    border-style:double;
+    border-color:black;
+    font-weight:bolder;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:right;
+    border-width:10px;
+    padding-right:10px;
+    padding-left:10px;
+    width:fit-content;
+    float:right;}
+
+#ad{width:auto;}
+
+iframe{border-style:double;
+    border-width:10px; 
+    border-color:black; 
+    background-color:green;}
+
+#button-menu:hover{color:red; 
+    background-color:blue;}
+
+/* index-telegram.html */
+body{background-color:gray;
+    cursor:url("cursor/Spain.cur"), default;}
+
+#telegram-header{border-style:double;
+    border-width:10px;
+    background-color:#0088cc;}
+    
+#telegram-title{color:white; 
+    text-align:center; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration:underline;}
+
+#telegram-navigation{border-style:double;
+    border-width:10px;
+    background-color:#0088cc;}
+
+/* index-spotify.html */
+body{background-color:gray;
+    cursor:url("cursor/Spain.cur"), default;}
+
+#spotify-header{border-style:double;
+    border-width:10px;
+    background-color:#1DB954;}
+
+#spotify-title{color:white; 
+    text-align:center; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration:underline;}
+
+#spotify-navigation{border-style:double;
+    border-width:10px;
+    background-color:#1DB954;}
+
+#return-button{color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    background-color:white; 
+    border-style:double; border-color:black; border-width:10px; background-color:yellow;
+    font-weight:bolder; 
+    cursor:url("cursor/Hand\ Spain.cur"), default;
+    float:left;
+    font-weight:bolder;}
