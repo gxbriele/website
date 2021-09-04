@@ -59,9 +59,9 @@ body{background-color:gray;
 #telegram-title:visited{color:white;}
 #telegram-title:active{color:white;}
 
-#telegram-subtitle{color:white; 
-    text-align:center; 
-    font-family:Georgia, 'Times New Roman', Times, serif;}
+#telegram-subtitle{color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:center;}
 
 #telegram-navigation{border-style:double;
     border-width:10px;
