@@ -53,6 +53,16 @@ body{background-color:gray;
     font-family:Georgia, 'Times New Roman', Times, serif;
     text-decoration:underline;}
 
+#telegram-title:link{color:white;}
+#telegram-title:hover{color:white;
+    cursor:url("cursor/Hand\ Spain.cur"), default;}
+#telegram-title:visited{color:white;}
+#telegram-title:active{color:white;}
+
+#telegram-subtitle{color:white; 
+    text-align:center; 
+    font-family:Georgia, 'Times New Roman', Times, serif;}
+
 #telegram-navigation{border-style:double;
     border-width:10px;
     background-color:#0088cc;}
