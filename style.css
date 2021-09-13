@@ -40,10 +40,7 @@ footer{color:white;
 #button-menu:hover{color:red; 
     background-color:blue;}
 
-/* index-telegram.html */
-body{background-color:gray;
-    cursor:url("cursor/Spain.cur"), default;}
-
+/* telegram.html */
 #telegram-header{border-style:double;
     border-width:10px;
     background-color:#0088cc;}
@@ -66,3 +63,27 @@ body{background-color:gray;
 #telegram-navigation{border-style:double;
     border-width:10px;
     background-color:#0088cc;}
+
+/* spotify.html */
+#spotify-header{border-style:double;
+    border-width:10px;
+    background-color:#1DB954;}
+    
+#spotify-title{color:white; 
+    text-align:center; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration:underline;}
+
+#spotify-title:link{color:white;}
+#spotify-title:hover{color:white;
+    cursor:url("cursor/Hand\ Spain.cur"), default;}
+#spotify-title:visited{color:white;}
+#spotify-title:active{color:white;}
+
+#spotify-subtitle{color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:center;}
+
+#spotify-navigation{border-style:double;
+    border-width:10px;
+    background-color:#1DB954;}
