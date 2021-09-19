@@ -6,7 +6,7 @@ body{background-color:gray;
 
 #header{border-style:double;
     border-width:10px;
-    background-color:darkred;}
+    background-color:red;}
 
 #title{color:white; 
     text-align:center; 
@@ -15,7 +15,7 @@ body{background-color:gray;
  
 #navigation{border-style:double;
     border-width:10px;
-    background-color:darkred;}
+    background-color:red;}
 
 #button-menu{color:black;
     font-family:Georgia, 'Times New Roman', Times, serif; 
